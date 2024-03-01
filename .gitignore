@@ -22,9 +22,6 @@ go.work
 grokking_algorithms/.metals/
 grokking_algorithms/.vscode/
 grokking_algorithms/chapter_1/.metals/
-grokking_algorithms/chapter_1/.metals/metals.log
-grokking_algorithms/chapter_1/.metals/metals.mv.db
-grokking_algorithms/chapter_1/.metals/.tmp/classpath_4D06C8F785E7BD55B6D2EA1378E63DE5.jar
 grokking_algorithms/chapter_1/.vscode/
 grokking_algorithms/chapter_1/binary_search/.scala-build/
 grokking_algorithms/chapter_1/binary_search/.bsp
