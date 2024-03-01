@@ -19,6 +19,12 @@
 
 # Go workspace file
 go.work
+
+
+.metals/
+.vscode/
+.bsp/
+.scala-build/
 grokking_algorithms/.metals/
 grokking_algorithms/.vscode/
 grokking_algorithms/chapter_1/.metals/
@@ -29,3 +35,7 @@ grokking_algorithms/chapter_2/.metals/
 grokking_algorithms/chapter_2/.vscode/
 grokking_algorithms/chapter_2/.bsp
 grokking_algorithms/chapter_2/.scala-build/
+grokking_algorithms/chapter_3/.metals/
+grokking_algorithms/chapter_3/.vscode/
+grokking_algorithms/chapter_3/.bsp
+grokking_algorithms/chapter_3/.scala-build/

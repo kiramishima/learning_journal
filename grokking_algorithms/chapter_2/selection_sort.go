@@ -9,7 +9,7 @@ func selectionSort(arr []int) []int {
 		for j := i + 1; j < len; j++ {
 			if arr[j] < arr[minIndex] {
 				arr[j], arr[minIndex] = arr[minIndex], arr[j]
-				fmt.Printf("%v\n", arr)
+				// fmt.Printf("%v\n", arr)
 			}
 		}
 	}
