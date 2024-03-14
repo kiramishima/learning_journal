@@ -6,6 +6,8 @@ import scala.collection.mutable.Set
 def person_is_seller(name: String): Boolean =
     name.takeRight(1) == "m"
 
+// Implementacion propia basada en el libro grokking algorithms
+// Igual y con recursión interna puede que sea más sencillo
 def search(graph: Map[String, List[String]], name: String): Boolean = {
     var search_queue = Queue[String]()
     var elem = graph.getOrElse(name, List.empty)
