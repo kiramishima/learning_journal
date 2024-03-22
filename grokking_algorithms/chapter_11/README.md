@@ -10,6 +10,8 @@ Yes, I should steal it.
 
 Book answer:
 
+Answer: Yes. Then you could steal the mechanical keyboard, the iPhone, and the guitar, worth a total of $4,500
+
 ## 11.2
 Suppose you’re going camping. You have a knapsack that will hold 6 lb, and you can take the following items. Each has a value, and the higher the value, the more important the item is:
 
@@ -80,11 +82,16 @@ What’s the optimal set of items to take on your camping trip?
 </tbody>
 </table>
 
-R= 25
+R= water, food, and a camera => 25
+
+Book Answer: You should take water, food, and a camera.
 
 ## 11.3
 Draw and fill in the grid to calculate the longest common
 substring between blue and clues.
+
+My answer:
+
 
 <table>
 <tbody>
@@ -131,4 +138,7 @@ substring between blue and clues.
 </tbody>
 </table>
 
-R= 3
+Book answer=
+
+![](ex_1.png)
+

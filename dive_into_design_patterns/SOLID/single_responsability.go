@@ -10,10 +10,6 @@ func (e *Employee) getName() string {
 	return e.name
 }
 
-func (e *Employee) printTimeSheetReport() {
-	/// todo
-}
-
 // With Single Responsability applied
 type TimeSheetReport struct {
 	// anything
